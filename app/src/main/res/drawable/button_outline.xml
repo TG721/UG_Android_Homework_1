@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="#00000000" /> <!-- Transparent background -->
+            <stroke
+                android:width="2dp"
+                android:color="@color/primary" /> <!-- Set the outline color here -->
+            <corners android:radius="0dp" /> <!-- Adjust corner radius as needed -->
+        </shape>
+    </item>
+</selector>
